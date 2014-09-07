@@ -18,4 +18,3 @@ class BoundingArea
     contains_point
   end
 end
-

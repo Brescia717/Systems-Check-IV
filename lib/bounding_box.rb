@@ -18,4 +18,3 @@ class BoundingBox
     end
   end
 end
-
